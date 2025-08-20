@@ -10,6 +10,4 @@ A simple **Flappy Bird clone** built with [Flutter](https://flutter.dev) and the
 - Game over dialog when you collide
 - Restart and try again!
 
-## Screenshots
 
-(Add 2–3 screenshots or a short GIF of gameplay here)
