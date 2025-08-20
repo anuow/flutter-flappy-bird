@@ -1,16 +1,15 @@
-# flappy_bird
+# Flappy Bird Clone (Flutter + Flame)
 
-A new Flutter project.
+A simple **Flappy Bird clone** built with [Flutter](https://flutter.dev) and the [Flame game engine](https://flame-engine.org/).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Tap to flap and keep the bird flying
+- Randomly generated pipes
+- Score tracking
+- Game over dialog when you collide
+- Restart and try again!
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Add 2–3 screenshots or a short GIF of gameplay here)
