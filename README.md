@@ -1,4 +1,4 @@
-# Flappy Bird Clone (Flutter + Flame)
+# Flappy Bird  (Flutter + Flame)
 
 A simple **Flappy Bird clone** built with [Flutter](https://flutter.dev) and the [Flame game engine](https://flame-engine.org/).
 
